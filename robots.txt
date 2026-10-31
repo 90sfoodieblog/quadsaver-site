@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quadsaver.com/sitemap.xml
